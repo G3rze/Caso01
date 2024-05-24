@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0b00aaf-03cd-4ab2-bd31-9562b024b3f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Caso01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/Reserva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/DoubleRoomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/PresidentialSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/RoomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/Rooms/DoubleRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/Rooms/PresidentialSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/Rooms/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/Rooms/SingleRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/Rooms/Suite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/SingleRoomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hotel/RoomFactory/SuitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/LoginMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/MenuAdministrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Menu/MenuCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Personas/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Personas/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Personas/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Personas/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Menu/MenuCliente.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2gsRXKFAHsDHD2teAmzP9qffsSS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/gerze/IdeaProjects/Caso01/src/Main.java",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0b00aaf-03cd-4ab2-bd31-9562b024b3f3" name="Changes" comment="" />
+      <created>1716484340690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716484340690</updated>
+      <workItem from="1716484341726" duration="5058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
